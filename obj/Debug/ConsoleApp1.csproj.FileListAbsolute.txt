@@ -1,0 +1,10 @@
+F:\tests\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\tests\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\tests\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\tests\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\tests\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\tests\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\tests\ConsoleApp1\bin\Debug\System.Data.SqlClient.dll
+F:\tests\ConsoleApp1\bin\Debug\System.Data.SqlClient.xml
+F:\tests\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\tests\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
